@@ -1,0 +1,46 @@
+body {
+  background-color: cadetblue;
+  color: aqua;
+
+}
+
+/* NAVBAR */
+.fa-star {
+  color: rgb(253, 206, 35);
+}
+
+.site-name {
+  color: rgb(253, 206, 35);
+  position: absolute;
+  top: 0px;
+}
+
+/* Movie card*/
+.card {
+  border: 0;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(0, 0, 0) 0%,
+    rgb(64, 64, 64) 90.2%
+  );
+}
+
+.card-text {
+  text-align: justify;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: rgb(232, 233, 243);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.info-type {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: orange;
+}
+
+.information {
+  font-weight: 500;
+  font-size: 0.9em;
+  color: #7dabef;
+}
