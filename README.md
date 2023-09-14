@@ -5,4 +5,4 @@ This site is a IMDB Clone site where it render movies data from open source omdb
 **Tech** HTML,CSS,Javascript.
 
 ## Link to see the project
-https://apuncoder.github.io/imdb-clone/
+[Live-Here](https://codingwithnikk.github.io/imdb-clone/)
